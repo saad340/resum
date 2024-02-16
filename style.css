@@ -1,0 +1,20 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-nav{
+    color: black !important;
+}
+
+.nav-link{
+    padding: 0px 15px !important;
+}
+
+
+.card{
+    border: none !important;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px !important;
+}
